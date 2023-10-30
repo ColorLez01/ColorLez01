@@ -1,9 +1,9 @@
 #### Hello there!
 I’m Charles Villegas
 
-I have many interests such as:
-Guitar, piano, violin, lifting, MMA, muay thai, cleaning, cooking, gaming, JDM cars.
-and most especially, my partner <3.
+>I have many interests such as:
+>guitar, piano, violin, lifting, MMA, muay thai, cleaning, cooking, gaming, JDM cars.
+>and most especially, my partner <3.
 - 🌱 I’m currently learning how to code in C and how to build a rover from scratch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
