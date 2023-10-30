@@ -1,5 +1,5 @@
 #### Hello There!
-- 👋 Hi, I’m Charles Villegas
+>I’m Charles Villegas
 
 - 👀 I’m interested in JDM and muscle cars, rovers, guitar, piano, violin, orchestral music, MMA, muay thai,
 - 🌱 I’m currently learning how to code in C and how to build a rover from scratch.
