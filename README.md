@@ -2,6 +2,7 @@
 I’m Charles Villegas
 
 I have many interests such as:
+
 Guitar, piano, violin, lifting, MMA, muay thai, cleaning, gaming, rovers, JDM cars. 
 - 🌱 I’m currently learning how to code in C and how to build a rover from scratch.
 - 💞️ I’m looking to collaborate on ...
